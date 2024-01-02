@@ -300,6 +300,19 @@ section {
   margin: auto 0;
 }
 
+.le_wagon_link {
+  color: blue;
+  font: 16px;
+}
+
+.le_wagon_link:hover {
+  color: darkblue;
+  text-decoration: underline;
+  text-underline-offset: 0.5rem;
+  text-decoration-color: rgb(181, 181, 181);
+
+}
+
 .text-container {
   margin-bottom: 2rem;
 }
